@@ -1,0 +1,17 @@
+MODEL:
+  SEG_MODEL:
+    BACKBONE:
+      TYPE: resnet50
+      FUSION: rgbd_cross_fuse
+      FUSION_LAYER: 4
+      NUM_LAYER: 5
+    ATTENTION:
+      TYPE: None
+      REDUCTION: 16
+  POSE_MODEL:
+    BACKBONE:
+      TYPE: VIT
+
+
+
+
