@@ -1,0 +1,9 @@
+/.idea/
+__pycache__/
+*.pyc
+/assets/
+/datasets/
+/results/
+/tf_ops/build/
+/tools/
+
