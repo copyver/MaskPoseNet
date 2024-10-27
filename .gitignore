@@ -4,6 +4,6 @@ __pycache__/
 /assets/
 /datasets/
 /results/
+/templates/
 /tf_ops/build/
 /tools/
-
